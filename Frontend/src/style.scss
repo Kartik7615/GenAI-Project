@@ -1,0 +1,15 @@
+@use "./style/button.scss";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body,
+#root {
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+    background-color: #272626;
+    color: whitesmoke;
+}
